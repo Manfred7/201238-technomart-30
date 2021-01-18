@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Петр Полунин](https://up.htmlacademy.ru/htmlcss/30/user/201238).
-* Наставник: `Неизвестно`.
+* Наставник: [`Artem Ryzhov`](https://htmlacademy.ru/profile/id1387905).
 
 ---
 
